@@ -1,18 +1,21 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
-[Oo]bj/
-[Bb]in/
+[Oo]bj/s0100
+[Bb]in/   0
+Målet
+# Other files and folders 0100
+.settings/task
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
+# Executables LP/.
+*.swf           500
+*.airlet
+*.ipa.             Saltlevengruppe
+*.apk               Opfylding/brain
+                     2000
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+     Strøm
+
+                Kotemcuplaration
